@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jeandtx/jeandtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm jeandtx working on some projects
+
+![image](https://user-images.githubusercontent.com/75331707/118376277-5ab71780-b5c7-11eb-9836-541e7800f7bb.gif)
+
+### And this is my current mail address:
+jean.doutriaux@gmail.com
