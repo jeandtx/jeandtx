@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm jeandtx working on some projects
 
+<!--
 ![image](https://user-images.githubusercontent.com/75331707/118376277-5ab71780-b5c7-11eb-9836-541e7800f7bb.gif)
+-->
 
 ### My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandtx)](https://github.com/anuraghazra/github-readme-stats)
