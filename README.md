@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandtx)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeandtx&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![.](https://skyline.github.com/jeandtx/2021)
 
 ### And this is my current mail address:
 jean.doutriaux@gmail.com
